@@ -6,7 +6,7 @@ Ce projet analyse l'utilisation des appareils connectés Bellabeat pour comprend
 ## 📂 Contenu du Projet  
 - 📁 **data/** → Données brutes et nettoyées  
 - 📁 **notebooks/** → Scripts R pour l'analyse  
-- 📁 **visualizations/** → Graphiques et insights  
+- 📁 **visualisations/** → Graphiques et insights  
 - 📜 **README.md** → Présentation du projet  
 
 ## 📊 Méthodologie  

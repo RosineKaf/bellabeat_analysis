@@ -18,7 +18,9 @@ Ce projet analyse l'utilisation des appareils connectés Bellabeat pour comprend
 ## 📈 Visualisations   
 
 ![Voir les graphiques sur Tableau Public](https://public.tableau.com/) *https://github.com/RosineKaf/bellabeat_analysis/blob/main/VISUALISATION/Distribution_pas_quotidien.png?raw=true*  
-[`Voir l'image`]*https://github.com/RosineKaf/bellabeat_analysis/blob/main/VISUALISATION/Distribution_pas_quotidien.png*
+[`Voir les images`]*https://github.com/RosineKaf/bellabeat_analysis/blob/main/VISUALISATION*
+[Voir les graphiques sur Tableau Public](https://public.tableau.com/) *https://public.tableau.com/app/profile/rosine.kafando/vizzes*  
+
 
 
 ![Graphique Sommeil](VISUALISATION/Distribution_pas_quotidien.png)  

@@ -27,5 +27,3 @@ library(tidyverse)
 # Importer les données
 activity_data <- read_csv("data/dailyActivity.csv")
 
-# Aperçu des données
-glimpse(activity_data)

@@ -16,9 +16,7 @@ Ce projet analyse l'utilisation des appareils connectés Bellabeat pour comprend
 ✅ Recommandations stratégiques pour Bellabeat  
 
 ## 📈 Visualisations   
-
-
-![`Voir les images`]*https://github.com/RosineKaf/bellabeat_analysis/blob/main/VISUALISATION*
+![`Pour voir les images suivez ce lien`]*https://github.com/RosineKaf/bellabeat_analysis/blob/main/VISUALISATION*
 
 
 ## 🚀 Comment exécuter le projet ?  

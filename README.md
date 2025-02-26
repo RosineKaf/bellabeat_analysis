@@ -16,7 +16,7 @@ Ce projet analyse l'utilisation des appareils connectés Bellabeat pour comprend
 ✅ Recommandations stratégiques pour Bellabeat  
 
 ## 📈 Visualisations  
-![Graphique Activité](visualizations/activity_trends.png)  
+![Distribution des pas quotidiens]((https://github.com/RosineKaf/bellabeat_analysis/blob/main/VISUALISATION/Distribution_pas_quotidien.png?raw=true))  
 ![Graphique Sommeil](visualizations/sleep_analysis.png)  
 
 ## 🚀 Comment exécuter le projet ?  
